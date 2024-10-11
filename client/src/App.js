@@ -1,4 +1,3 @@
-// App.js or index.js
 import { ApolloProvider } from '@apollo/client';
 import client from './apollo-client'; 
 import PropertyListings from './components/PropertyListings';
